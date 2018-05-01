@@ -1,0 +1,43 @@
+{
+    "name": "insiteapps/common-ecommerce",
+    "description": "Silverstripe Insite Apps (south africa) commonly used ecommerce project files",
+    "type": "silverstripe-module",
+    "keywords": [
+        "insite"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Itayi Patrick Chitovoro",
+            "email": "patrick@chitosystems.com"
+        }
+    ],
+    "require": {
+        "silverstripe/multiform": "*",
+        "symbiote/silverstripe-memberprofiles": "*",
+
+        "burnbright/silverstripe-hasonefield": "*",
+        "silvershop/core": "dev-master",
+
+        "silverstripe/silverstripe-omnipay": "dev-master",
+
+        "silvershop/discounts": "dev-master",
+        "silvershop/stock": "dev-master",
+        "silvershop/shipping": "dev-master",
+
+        "markguinn/silverstripe-shop-downloadable": "*",
+
+
+        "omnipay/paypal": "dev-master",
+        "omnipay/manual": "dev-master",
+        "omnipay/dummy": "dev-master",
+        "markguinn/silverstripe-ajax": "dev-master",
+        "markguinn/silverstripe-shop-extendedpricing": "dev-master",
+        "markguinn/silverstripe-shop-search": "dev-master",
+
+    },
+    "extra": {
+        "installer-name": "silvercloud-shop"
+    }
+}
+
