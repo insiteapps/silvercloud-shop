@@ -27,7 +27,7 @@
         "omnipay/dummy": "dev-master",
         "markguinn/silverstripe-ajax": "dev-master",
         "markguinn/silverstripe-shop-extendedpricing": "dev-master",
-        "markguinn/silverstripe-shop-search": "dev-master"
+
     },
     "extra": {
         "installer-name": "silvercloud-shop"
