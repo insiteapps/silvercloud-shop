@@ -26,7 +26,7 @@
         "omnipay/manual": "dev-master",
         "omnipay/dummy": "dev-master",
         "markguinn/silverstripe-ajax": "dev-master",
-        "markguinn/silverstripe-shop-extendedpricing": "dev-master",
+        "markguinn/silverstripe-shop-extendedpricing": "dev-master"
 
     },
     "extra": {
