@@ -13,21 +13,10 @@
         }
     ],
     "require": {
-        "silverstripe/multiform": "dev-master",
-        "symbiote/silverstripe-memberprofiles": "dev-master",
-        "burnbright/silverstripe-hasonefield": "*",
         "silvershop/core": "dev-master",
-        "silverstripe/silverstripe-omnipay": "dev-master",
-        "silvershop/discounts": "dev-master",
-        "silvershop/stock": "dev-master",
-        "silvershop/shipping": "dev-master",
-        "markguinn/silverstripe-shop-downloadable": "*",
         "omnipay/paypal": "dev-master",
         "omnipay/manual": "dev-master",
-        "omnipay/dummy": "dev-master",
-        "markguinn/silverstripe-ajax": "dev-master",
-        "markguinn/silverstripe-shop-extendedpricing": "dev-master"
-
+        "omnipay/dummy": "dev-master" 
     },
     "extra": {
         "installer-name": "silvercloud-shop"
