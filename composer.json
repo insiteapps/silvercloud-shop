@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "silvershop/core": "dev-master",
+        "silvershop/core": "^3@dev",
         "omnipay/paypal": "dev-master",
         "omnipay/manual": "dev-master",
         "omnipay/dummy": "dev-master" 
