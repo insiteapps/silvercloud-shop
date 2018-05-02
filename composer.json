@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "silvershop/core": "^3@dev",
+          "silvershop/core": "^3@dev",
         "silverstripe/silverstripe-omnipay": "^3@dev"
     },
     "extra": {
